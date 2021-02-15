@@ -16,6 +16,10 @@ p {
     line-height: 2;
 }
 
+p {
+    font-size: 1.25rem;
+}
+
 h2 {
     padding: 10px 0 10px 0;
 }
